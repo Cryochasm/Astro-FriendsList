@@ -2,13 +2,13 @@
 title: CHANGEME Name
 description: |
     CHANGEME description
-imgSrc: '/src/content/astro-friendslist/CHANGEME/profile-pic.png'
-imgAlt: 'CHANGEME Profile Picture'
+img: '/src/content/astro-friendslist/assets/profile-pic.png'
+img_alt: 'CHANGEME Profile Picture'
 ---
 
-# CHANGEME Name
+# About CHANGEME
 
-## Description
+## Services
 Technology Consulting
 
 ## Service Location and Availability
@@ -19,6 +19,11 @@ Technology Consulting
 
 ## Links
 [CHANGEME Website](https://www.CHANGEME.com)  
-[CHANGEME Facebook](https://facebook.com/CHANGEME)  
-[CHANGEME X](https://x.com/CHANGEME)  
+[Facebook](https://facebook.com/CHANGEME)  
+[Instagram](http://)  
+[LinkedIn]()  
+[TikTok]()  
+[YouTube]()  
+[Telegram]()  
+[X](https://x.com/CHANGEME)  
 
