@@ -2,7 +2,7 @@
 title: Stephanie O. Thornton
 description: |
     Energy Healer and Coach
-img: /src/content/astro-friendslist/assets/stephanie_o_thornton.jpg
+img: /src/content/Astro-FriendsList/assets/stephanie_o_thornton.jpg
 img_alt: 'Stephanie O. Thornton Profile Picture'
 ---
 

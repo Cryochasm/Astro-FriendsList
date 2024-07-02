@@ -2,7 +2,7 @@
 title: Bea-Marie Aning
 description: |
     Transformation - Success - Wellbeing - Leadership Performance Coaching
-img: '/src/content/astro-friendslist/assets/bea_marie_aning.jpg'
+img: '/src/content/Astro-FriendsList/assets/bea_marie_aning.jpg'
 img_alt: 'Bea Marie Aning Profile Picture'
 ---
 

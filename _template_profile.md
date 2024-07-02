@@ -2,7 +2,7 @@
 title: CHANGEME Name
 description: |
     CHANGEME description
-img: '/src/content/astro-friendslist/assets/profile-pic.png'
+img: '/src/content/Astro-FriendsList/assets/profile-pic.png'
 img_alt: 'CHANGEME Profile Picture'
 ---
 

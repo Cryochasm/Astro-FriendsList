@@ -5,7 +5,7 @@ description: |
     Intuitive Guidance 🪐
     Strategy for Mystic and Heart-Centered Business 🌈
     Soul Map 🤍🤍🤍
-img: /src/content/astro-friendslist/assets/dominique_levescue.webp
+img: /src/content/Astro-FriendsList/assets/dominique_levescue.webp
 img_alt: 'Dominique Levesque Profile Picture'
 ---
 
