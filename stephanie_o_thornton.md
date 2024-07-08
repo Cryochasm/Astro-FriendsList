@@ -1,8 +1,8 @@
 ---
 title: Stephanie O. Thornton
 description: |
-    Energy Healer and Coach
-img: /src/content/Astro-FriendsList/assets/stephanie_o_thornton.jpg
+    Energy Healer, Somatic Practictioner, and Coach
+img: /src/content/soulpreneurs/assets/stephanie_o_thornton.jpg
 img_alt: 'Stephanie O. Thornton Profile Picture'
 ---
 
@@ -12,7 +12,7 @@ As an intuitive coach, energy healer, and practical Sha-woman, Stephanie brings 
 ## Services
 * Energy Healing
 * Ancestral Healing 
-* Somatic Healing  
+* Somatic Healing
 * Life Coaching
 * Group Coaching
 * Executive Coaching
@@ -29,4 +29,4 @@ As an intuitive coach, energy healer, and practical Sha-woman, Stephanie brings 
 ## Links
 [www.PostiveChangeAcceleration.com](https://www.PostiveChangeAcceleration.com)  
 [Facebook](https://www.facebook.com/stephanie.oconnell1010)  
-[LinkedIn](https://www.linkedin.com/in/stephanieoconnell/)
+[LinkedIn](https://www.linkedin.com/in/stephanieoconnell/)  

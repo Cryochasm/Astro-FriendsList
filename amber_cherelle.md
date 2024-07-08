@@ -2,7 +2,7 @@
 title: Amber Cherelle
 description: |
     Founder of The Limitless Mum Academy, Hypnotherapist, EFT & NLP Practitioner, Human Design Guide, Mindset and Confidence
-img: '/src/content/Astro-FriendsList/assets/amber_cherelle.jpg'
+img: '/src/content/soulpreneurs/assets/amber_cherelle.jpg'
 img_alt: 'Amber Cherelle Profile Picture'
 ---
 
